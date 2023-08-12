@@ -1,0 +1,11 @@
+C:\Users\fahmed\OneDrive - Kudelski Group\hackathon\data_transmission\data_transmission\target\debug\deps\json5-d835921e0e77e6b6.rmeta: C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\lib.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\de.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\error.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\ser.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src/json5.pest
+
+C:\Users\fahmed\OneDrive - Kudelski Group\hackathon\data_transmission\data_transmission\target\debug\deps\libjson5-d835921e0e77e6b6.rlib: C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\lib.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\de.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\error.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\ser.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src/json5.pest
+
+C:\Users\fahmed\OneDrive - Kudelski Group\hackathon\data_transmission\data_transmission\target\debug\deps\json5-d835921e0e77e6b6.d: C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\lib.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\de.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\error.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\ser.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src/json5.pest
+
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\lib.rs:
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\de.rs:
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\error.rs:
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src\ser.rs:
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\json5-0.4.1\src/json5.pest:

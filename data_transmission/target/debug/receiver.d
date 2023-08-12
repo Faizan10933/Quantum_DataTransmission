@@ -1,0 +1,1 @@
+C:\Users\fahmed\OneDrive\ -\ Kudelski\ Group\hackathon\data_transmission\data_transmission\target\debug\receiver.exe: C:\Users\fahmed\OneDrive\ -\ Kudelski\ Group\hackathon\data_transmission\data_transmission\receiver\receiver.rs

@@ -1,0 +1,10 @@
+C:\Users\fahmed\OneDrive - Kudelski Group\hackathon\data_transmission\data_transmission\target\debug\deps\pest_generator-8ee0212f0e1a8d25.rmeta: C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\lib.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\macros.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\docs.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\generator.rs
+
+C:\Users\fahmed\OneDrive - Kudelski Group\hackathon\data_transmission\data_transmission\target\debug\deps\libpest_generator-8ee0212f0e1a8d25.rlib: C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\lib.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\macros.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\docs.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\generator.rs
+
+C:\Users\fahmed\OneDrive - Kudelski Group\hackathon\data_transmission\data_transmission\target\debug\deps\pest_generator-8ee0212f0e1a8d25.d: C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\lib.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\macros.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\docs.rs C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\generator.rs
+
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\lib.rs:
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\macros.rs:
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\docs.rs:
+C:\Users\fahmed\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.2\src\generator.rs:
